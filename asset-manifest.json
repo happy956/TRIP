@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/UMOS/static/css/main.0c552aab.css",
-    "main.js": "/UMOS/static/js/main.9dce0487.js",
-    "static/js/787.eaba38ef.chunk.js": "/UMOS/static/js/787.eaba38ef.chunk.js",
-    "service-worker.js": "/UMOS/service-worker.js",
-    "index.html": "/UMOS/index.html",
-    "main.0c552aab.css.map": "/UMOS/static/css/main.0c552aab.css.map",
-    "main.9dce0487.js.map": "/UMOS/static/js/main.9dce0487.js.map",
-    "787.eaba38ef.chunk.js.map": "/UMOS/static/js/787.eaba38ef.chunk.js.map"
+    "main.css": "/trip/static/css/main.0c552aab.css",
+    "main.js": "/trip/static/js/main.990be501.js",
+    "static/js/787.eaba38ef.chunk.js": "/trip/static/js/787.eaba38ef.chunk.js",
+    "service-worker.js": "/trip/service-worker.js",
+    "index.html": "/trip/index.html",
+    "main.0c552aab.css.map": "/trip/static/css/main.0c552aab.css.map",
+    "main.990be501.js.map": "/trip/static/js/main.990be501.js.map",
+    "787.eaba38ef.chunk.js.map": "/trip/static/js/787.eaba38ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c552aab.css",
-    "static/js/main.9dce0487.js"
+    "static/js/main.990be501.js"
   ]
 }
